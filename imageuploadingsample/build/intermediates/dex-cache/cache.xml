@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vinayshanthagiri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-088aa061cfe3b9e2b8c912e041a96ab037bd9844.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-bfb043cc62668581bb23d494492f01248b2ac2df.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-634b4fc54b626bcc3ac60d36604ccb89dac48d18.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-b0e202d3cd4ddc64041877ee664c68e84e10b907.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-2d906d4a232c6ac428a79f5f18525621f252bdb0.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-b2761f8245a7c856352de8f9819784fdfd574788.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-9d6141efc03f77473584a776f68f0a6940cfbe02.jar" />
+    </item>
+    <item
+        jar="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/vinayshanthagiri/Downloads/imageuploadingsample/app/build/intermediates/pre-dexed/debug/classes-8439fd75040efc7a440a36f3a2a64522118a11e6.jar" />
+    </item>
+
+</items>
