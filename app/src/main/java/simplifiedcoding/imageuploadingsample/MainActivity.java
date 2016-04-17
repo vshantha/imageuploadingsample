@@ -83,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
 
-                viewImage();
+                //viewImage();
+                viewWeb();
 
             }
         });
@@ -184,5 +185,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void viewImage() {
         startActivity(new Intent(this, ViewImage.class));
+    }
+
+
+    private void viewWeb() {
+
+        startActivity(new Intent(this, ViewWeb.class));
     }
 }
